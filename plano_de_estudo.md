@@ -8,6 +8,7 @@ Este documento organiza o estudo do livro **Implementando Domain-Driven Design**
 
 ### Semana 1: Fundamentos e Contexto
 - **Capítulos:**
+
   1. Introdução ao DDD  
   2. Domínios, Subdomínios e Contextos Delimitados  
 - **Objetivos:**
@@ -22,6 +23,7 @@ Este documento organiza o estudo do livro **Implementando Domain-Driven Design**
 
 ### Semana 2: Mapas de Contexto e Arquitetura
 - **Capítulos:**
+
   3. Mapas de Contexto  
   4. Arquitetura  
 - **Objetivos:**
@@ -35,6 +37,7 @@ Este documento organiza o estudo do livro **Implementando Domain-Driven Design**
 
 ### Semana 3: Entidades e Objetos de Valor
 - **Capítulos:**
+
   5. Entidades  
   6. Objetos de Valor  
 - **Objetivos:**
@@ -48,6 +51,7 @@ Este documento organiza o estudo do livro **Implementando Domain-Driven Design**
 
 ### Semana 4: Serviços e Eventos
 - **Capítulos:**
+
   7. Serviços  
   8. Eventos e Domínios  
 - **Objetivos:**
@@ -61,6 +65,7 @@ Este documento organiza o estudo do livro **Implementando Domain-Driven Design**
 
 ### Semana 5: Módulos e Agregados
 - **Capítulos:**
+
   9. Módulos  
   10. Agregados  
 - **Objetivos:**
@@ -74,6 +79,7 @@ Este documento organiza o estudo do livro **Implementando Domain-Driven Design**
 
 ### Semana 6: Fábricas e Repositórios
 - **Capítulos:**
+
   11. Fábricas  
   12. Repositórios  
 - **Objetivos:**
@@ -87,6 +93,7 @@ Este documento organiza o estudo do livro **Implementando Domain-Driven Design**
 
 ### Semana 7: Integração e Aplicação
 - **Capítulos:**
+
   13. Integrando Contextos Delimitados  
   14. Aplicação  
 - **Objetivos:**
