@@ -7,10 +7,9 @@ Este documento organiza o estudo do livro **Implementando Domain-Driven Design**
 ## **Estrutura do Plano**
 
 ### Semana 1: Fundamentos e Contexto
-- **Capítulos:**
-
-  1. Introdução ao DDD  
-  2. Domínios, Subdomínios e Contextos Delimitados  
+- **Capítulos:**  
+  1. Introdução ao DDD.
+  2. Domínios, Subdomínios e Contextos Delimitados.  
 - **Objetivos:**
   - Entender os fundamentos do Domain-Driven Design.
   - Identificar domínios e subdomínios em um sistema.
@@ -22,10 +21,9 @@ Este documento organiza o estudo do livro **Implementando Domain-Driven Design**
 ---
 
 ### Semana 2: Mapas de Contexto e Arquitetura
-- **Capítulos:**
-
-  3. Mapas de Contexto  
-  4. Arquitetura  
+- **Capítulos:**  
+  3. Mapas de Contexto.   
+  4. Arquitetura.  
 - **Objetivos:**
   - Mapear contextos delimitados e suas interações.
   - Estruturar a arquitetura inicial baseada no DDD.  
@@ -36,10 +34,9 @@ Este documento organiza o estudo do livro **Implementando Domain-Driven Design**
 ---
 
 ### Semana 3: Entidades e Objetos de Valor
-- **Capítulos:**
-
-  5. Entidades  
-  6. Objetos de Valor  
+- **Capítulos:**  
+  5. Entidades.  
+  6. Objetos de Valor.    
 - **Objetivos:**
   - Modelar entidades e objetos de valor.
   - Diferenciar e aplicar ambos em um sistema.  
@@ -50,10 +47,9 @@ Este documento organiza o estudo do livro **Implementando Domain-Driven Design**
 ---
 
 ### Semana 4: Serviços e Eventos
-- **Capítulos:**
-
-  7. Serviços  
-  8. Eventos e Domínios  
+- **Capítulos:**  
+  7. Serviços.  
+  8. Eventos e Domínios.  
 - **Objetivos:**
   - Entender o papel dos serviços no domínio.
   - Modelar eventos para comunicação entre contextos.  
@@ -64,10 +60,9 @@ Este documento organiza o estudo do livro **Implementando Domain-Driven Design**
 ---
 
 ### Semana 5: Módulos e Agregados
-- **Capítulos:**
-
-  9. Módulos  
-  10. Agregados  
+- **Capítulos:**  
+  9. Módulos.  
+  10. Agregados.  
 - **Objetivos:**
   - Organizar o domínio em módulos coesos.
   - Criar agregados com consistência e regras de negócio.  
@@ -78,10 +73,9 @@ Este documento organiza o estudo do livro **Implementando Domain-Driven Design**
 ---
 
 ### Semana 6: Fábricas e Repositórios
-- **Capítulos:**
-
-  11. Fábricas  
-  12. Repositórios  
+- **Capítulos:**  
+  11. Fábricas.  
+  12. Repositórios.  
 - **Objetivos:**
   - Usar fábricas para criar instâncias complexas de objetos.
   - Criar repositórios para gerenciar persistência de dados.  
@@ -93,9 +87,8 @@ Este documento organiza o estudo do livro **Implementando Domain-Driven Design**
 
 ### Semana 7: Integração e Aplicação
 - **Capítulos:**
-
-  13. Integrando Contextos Delimitados  
-  14. Aplicação  
+  13. Integrando Contextos Delimitados.  
+  14. Aplicação.  
 - **Objetivos:**
   - Explorar padrões para integração de contextos delimitados.
   - Implementar a camada de aplicação para orquestrar regras de negócio.  
