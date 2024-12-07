@@ -7,9 +7,9 @@ Este documento organiza o estudo do livro **Implementando Domain-Driven Design**
 ## **Estrutura do Plano**
 
 ### Semana 1: Fundamentos e Contexto
-- **Capítulos:**  
-  1. Introdução ao DDD.
-  2. Domínios, Subdomínios e Contextos Delimitados.  
+- **Capítulos:**   
+  1.Introdução ao DDD.  
+  2.Domínios, Subdomínios e Contextos Delimitados.  
 - **Objetivos:**
   - Entender os fundamentos do Domain-Driven Design.
   - Identificar domínios e subdomínios em um sistema.
